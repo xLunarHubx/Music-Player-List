@@ -1,0 +1,7 @@
+title: LiSA『ReawakeR (feat. Felix of Stray Kids)』MUSiC CLiP
+sanitized: LiSA_ReawakeR _feat. Felix of Stray Kids__MUSiC CLiP
+artist: LiSA Official YouTube
+requested_by: script_kingsean#0
+requester_id: 1382755856629764207
+link: https://music.youtube.com/watch?v=oe4XJ851oOk&si=1cHlAFso3tXTVCEd
+thumbnail: https://i.ytimg.com/vi/oe4XJ851oOk/maxresdefault.jpg
